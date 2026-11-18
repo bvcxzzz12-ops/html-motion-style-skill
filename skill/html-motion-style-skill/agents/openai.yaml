@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML 모션 발표 스타일"
+  short_description: "키네틱 타이포그래피와 단계별 공개로 오프라인 HTML 발표 제작"
+  default_prompt: "$html-motion-style-skill로 이 내용을 클릭과 키보드로 넘기는 한국어 HTML 발표로 만들어 줘."

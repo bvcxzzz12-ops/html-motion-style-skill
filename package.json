@@ -1,0 +1,22 @@
+{
+  "name": "html-motion-style-skill",
+  "version": "1.0.0",
+  "description": "Codex skill for offline HTML slides with Korean kinetic typography and staged reveals",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvcxzzz12-ops/html-motion-style-skill.git"
+  },
+  "type": "module",
+  "bin": {
+    "html-motion-style-skill": "./bin/install.mjs"
+  },
+  "files": [
+    "bin/install.mjs",
+    "skill/html-motion-style-skill/"
+  ],
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": ["codex", "skills", "presentation", "html", "kinetic-typography"]
+}
